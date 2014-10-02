@@ -1,7 +1,7 @@
 snoblo
 ======
 
-<img style="margin: 0 auto" src="sample_images/user1.jpg">
+<img src="sample_images/user1.jpg">
 
 This application is one of the projects I created for LMC 2700: Intro to Computational Media. In this assignment, I was challenged to write a procedural drawing program that uses an alternative metaphor for drawing. While most people think of art in terms of pencils and paints, my application speaks to how art can be created on non-conventional canvases.
 
